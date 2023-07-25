@@ -10,3 +10,7 @@ Desktop.ini
 /UserSettings
 
 /Assets/SceneDependencyCache
+.idea
+obj
+*.csproj
+*.sln
